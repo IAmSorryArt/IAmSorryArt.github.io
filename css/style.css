@@ -28,6 +28,7 @@ body {
 
 .logo {
     border-radius: 50%;
+    box-shadow: 2px 2px #0D47A1;
     margin: 5%;
     width: 90%;
     z-index: 3;
